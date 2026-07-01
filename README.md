@@ -21,7 +21,7 @@
 
 ## Open source from that stack
 
-|---|---|
+| | |
 | 🧠 [**ebrain**](https://github.com/ciroautuori/ebrain) | 4-layer memory system for AI agents (facts → scenes → persona) plus a typed knowledge graph. PostgreSQL + Qdrant, fully local — the memory layer Jarvis' agents actually run on. |
 | ⚡ [**auto-optimizer**](https://github.com/ciroautuori/auto-optimizer) | A Claude Code skill + hook loop for context hygiene, subagent routing and automatic session handoffs. "Never restart from zero," shipped as a hook. |
 | 🐧 [**archlegion**](https://github.com/ciroautuori/archlegion) | Setup notes and configs for the Arch Linux box everything above runs on. |
