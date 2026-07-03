@@ -9,10 +9,10 @@
 ![Claude Code](https://img.shields.io/badge/claude_code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-![Brands](https://img.shields.io/badge/brand_orchestrati-12-gold)
+![Brands](https://img.shields.io/badge/brands_orchestrated-12-gold)
 ![Fleet](https://img.shields.io/badge/fleet-4_VPS-green)
-![CLI](https://img.shields.io/badge/CLI-85_comandi-orange)
-![Tests](https://img.shields.io/badge/tests-215_file-brightgreen)
+![CLI](https://img.shields.io/badge/CLI-85_commands-orange)
+![Tests](https://img.shields.io/badge/tests-215_files-brightgreen)
 
 </div>
 
@@ -22,39 +22,40 @@
 
 📍 Barcelona &nbsp;·&nbsp; 🌐 [studiocentos.com](https://studiocentos.com) &nbsp;·&nbsp; 🗣️ IT · ES · EN
 
-Programmo da quando ero adolescente. Nel 2023 ho fondato **StudioCentOS** con un obiettivo preciso: portare sviluppo software di livello enterprise alle PMI italiane e spagnole, a prezzi onesti — codice del cliente, niente abbonamenti opachi, niente lock-in. Prima, due anni da Amministratore dell'APS Sol.i.so.
+Coding since my teens. Founded **StudioCentOS** in 2023 with one goal: bring enterprise-grade software to Italian and Spanish SMBs at honest prices — client owns the code, no opaque subscriptions, no lock-in. Before that, two years as Administrator of Sol.i.so, a Salerno nonprofit.
 
 ---
 
 ## eros — Autonomous Holding OS
 
-Tutto lo stack di StudioCentOS gira su un motore unico che ho progettato: **eros**. Non è un tool, è il sistema operativo della holding — cockpit, fleet di VPS, pipeline social multi-piattaforma (TikTok, Instagram, YouTube, Facebook), commerce AI, outreach B2B, brain RAG, loop di self-evolve.
+Everything StudioCentOS ships runs on one engine I designed: **eros**. Not a tool — the holding's operating system: cockpit, VPS fleet, multi-platform social pipeline (TikTok, Instagram, YouTube, Facebook), AI commerce, B2B outreach, brain RAG, self-evolve loop.
 
 *Precise. Dark. Commanding.*
 
-- **12** brand/progetti orchestrati su **4** VPS in fleet
-- **85** comandi CLI, **215** file di test, lint pulito
-- Gate qualità a doppio giudice (soglia 8.5) + approvazione umana via Telegram prima di ogni azione esterna — **l'AI propone, decido io**
-- Costi prevedibili: cascata $0-first (modelli locali/gratuiti prima, Claude solo quando serve davvero)
+- **12** brands/projects orchestrated across a **4**-VPS fleet
+- **85** CLI commands, **215** test files, clean lint
+- Dual-judge quality gate (8.5 threshold) + human approval via Telegram before any external action — **AI proposes, I decide**
+- Predictable costs: $0-first cascade (local/free models first, Claude only when it actually matters)
 - Stack: Python 3.14 · FastAPI · Next.js 15 · PostgreSQL 17 + pgvector · Redis · Qdrant · Docker
 
-Motore proprietario — sotto, i progetti reali che genera.
+Proprietary engine — real projects it powers below.
 
 ---
 
-## In produzione, oggi
+## Shipped, not staged
 
-Niente demo, niente badge finti. Girano ora, con utenti reali:
+No demos, no vanity badges. Live now, with real users:
 
-| Progetto | Cos'è | Live |
+| Project | What it is | Live |
 |---|---|---|
-| **Movimento Donne Forti** | piattaforma civica — tessera digitale verificabile, petizione live, bot Telegram AI, aggregatore bandi | [movimentodonneforti.it](https://movimentodonneforti.it) |
-| **Sol.i.so APS** | sito + backoffice per l'associazione salernitana su Lingua dei Segni Italiana e assistenza scolastica, con Comune di Salerno e Istituto Filippo Smaldone | [solisoaps.it](https://solisoaps.it) |
-| **SalernOS** | "sistema operativo" locale di Salerno — ricerca semantica su ristoranti, spiagge, eventi, casa, lavoro | [salernos.it](https://salernos.it) |
-| **FishArt Experience** | booking all-inclusive per esperienze culinarie salernitane a Barcellona — yacht, ville, rooftop | [fishartexperience.es](https://fishartexperience.es) |
-| **AICommerce** | e-commerce affiliate gestito da agenti autonomi — catalogo, scoring AI, checkout | [markettina.com](https://markettina.com) |
+| **Movimento Donne Forti** | civic platform — verifiable digital membership card, live petition, AI Telegram bot, grants aggregator | [movimentodonneforti.it](https://movimentodonneforti.it) |
+| **Sol.i.so APS** | site + backoffice for a Salerno nonprofit focused on Italian Sign Language and school support for deaf children, with the City of Salerno and Istituto Filippo Smaldone | [solisoaps.it](https://solisoaps.it) |
+| **SalernOS** | Salerno's local "operating system" — semantic search across restaurants, beaches, events, housing, jobs | [salernos.it](https://salernos.it) |
+| **FishArt Experience** | all-inclusive booking for Salerno-style seafood dining experiences in Barcelona — yacht, villa, rooftop | [fishartexperience.es](https://fishartexperience.es) |
+| **AICommerce** | affiliate e-commerce run by autonomous agents — catalog sync, AI scoring, checkout | [markettina.com](https://markettina.com) |
+| **bcnos.es** | Barcelona super-app — city discovery, housing, jobs, bookings | [bcnos.es](https://bcnos.es) |
 
-Più piattaforme gestionali white-label attive per studio legale, commercialista e fotografo — stesso principio: software del cliente, sul suo server.
+Plus white-label management platforms live for a law firm, an accounting practice, and a photographer — same principle: client's software, client's server.
 
 ---
 
@@ -62,18 +63,18 @@ Più piattaforme gestionali white-label attive per studio legale, commercialista
 
 | | |
 |---|---|
-| 🧠 [**ebrain**](https://github.com/ciroautuori/ebrain) | Sistema di memoria a 4 layer per agenti AI (fatti → scene → persona) + knowledge graph tipizzato. PostgreSQL + Qdrant, completamente locale. |
-| ⚡ [**auto-optimizer**](https://github.com/ciroautuori/auto-optimizer) | Skill + hook loop per Claude Code — igiene del context, routing subagent, handoff automatico tra sessioni. |
-| 🐧 [**archlegion**](https://github.com/ciroautuori/archlegion) | Setup e config per il box Arch Linux su cui gira la fleet. |
+| 🧠 [**ebrain**](https://github.com/ciroautuori/ebrain) | 4-layer memory system for AI agents (facts → scenes → persona) + typed knowledge graph. PostgreSQL + Qdrant, fully local. |
+| ⚡ [**auto-optimizer**](https://github.com/ciroautuori/auto-optimizer) | Claude Code skill + hook loop — context hygiene, subagent routing, automatic session handoffs. |
+| 🐧 [**archlegion**](https://github.com/ciroautuori/archlegion) | Setup and configs for the Arch Linux box the fleet runs on. |
 
 ---
 
 ## Off the clock
 
-CrossFit, atleta autodidatta. Founder di **Spartani Bcn**, community per italiani a Barcellona costruita su allenamento e mentalità spartana.
+CrossFit, self-taught athlete. Founder of **Spartani Bcn**, a community for Italians in Barcelona built around training and a spartan-spirit mindset.
 
 ---
 
-📫 **[studiocentos.com](https://studiocentos.com)** — 30 min di call gratuita, risposta entro 24h.
+📫 **[studiocentos.com](https://studiocentos.com)** — free 30-min call, response within 24h.
 
-<p align="center"><sub>"Il codice deve funzionare. Sempre. Dal primo deploy."</sub></p>
+<p align="center"><sub>"Il codice deve funzionare. Sempre. Dal primo deploy." — code has to work, always, from the first deploy.</sub></p>
