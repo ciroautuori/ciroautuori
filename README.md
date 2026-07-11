@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ciroautuori?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ciroautuori)
 [![GitHub User's stars](https://img.shields.io/github/stars/ciroautuori?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/ciroautuori)
-[![Profile Views](https://komarev.com/ghpvc/?username=ciroautuori&style=for-the-badge&color=bluevioLet)](https://github.com/ciroautuori)
+[![Profile Views](https://komarev.com/ghpvc/?username=ciroautuori&style=for-the-badge&color=blueviolet)](https://github.com/ciroautuori)
 
 ---
 
