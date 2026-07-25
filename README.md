@@ -51,14 +51,17 @@
 
 ## 🐍 Contribution Snake
 
-[![Snake animation](https://raw.githubusercontent.com/ciroautuori/ciroautuori/output/github-contribution-grid-snake-dark.svg)](https://github.com/ciroautuori/ciroautuori/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ciroautuori/ciroautuori/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ciroautuori/ciroautuori/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ciroautuori/ciroautuori/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak & Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciroautuori&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciroautuori&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ciroautuori&theme=tokyonight&hide_border=true)](https://github.com/ciroautuori)
 
 ---
 
