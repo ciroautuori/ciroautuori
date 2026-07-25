@@ -62,6 +62,18 @@
 
 ---
 
+## 🚀 Featured Open-Source Projects
+
+| Project | Description | Tech Stack | Live Demo / Link |
+|---|---|---|---|
+| 🎮 [**DevQuest**](https://github.com/ciroautuori/quiz.is-a-dev) | Multi-track interactive developer game & quiz lab with WASM Python sandbox & AI Tutor | `Next.js 15` `TypeScript` `Pyodide` `Tailwind` | [quiz.is-a.dev](https://quiz.is-a.dev) |
+| ⚡ [**Openvidia**](https://github.com/ciroautuori/openvidia) | Multi-key load-balancing proxy for NVIDIA NIM with desktop dashboard | `Python` `FastAPI` `NVIDIA NIM` `Claude Code` | [github.com/ciroautuori/openvidia](https://github.com/ciroautuori/openvidia) |
+| 🎙️ [**Whispy**](https://github.com/ciroautuori/whispy) | Push-to-talk offline & multi-provider voice dictation for Linux (Wayland/KDE) | `Python` `whisper.cpp` `Groq` `Linux` | [github.com/ciroautuori/whispy](https://github.com/ciroautuori/whispy) |
+| 🎨 [**R3F Rules**](https://github.com/ciroautuori/r3f-rules) | 13 hard rules + audit scorecard + AI agent skill for production React Three Fiber | `React Three Fiber` `Three.js` `Zustand` | [github.com/ciroautuori/r3f-rules](https://github.com/ciroautuori/r3f-rules) |
+| 💻 [**ArchLegion**](https://github.com/ciroautuori/archlegion) | One-command automated Arch Linux DevOps workstation setup & GPU switching | `Shell` `Arch Linux` `DevOps` `NVIDIA` | [github.com/ciroautuori/archlegion](https://github.com/ciroautuori/archlegion) |
+
+---
+
 ## 🏢 Brands & Projects
 
 A quick tour of what EROS powers behind the scenes:
