@@ -77,6 +77,23 @@
 
 ---
 
+## ⭐ Curated Starred Repositories
+
+Explore my categorized collection of **125+ starred open-source projects**, curated by technical domain:
+
+👉 **[View Full Categorized Stars List (STARS.md)](./STARS.md)**
+
+| Category | Description | Count |
+| :--- | :--- | :---: |
+| 🤖 **[MCP & AI Agents](./STARS.md#-mcp_agents)** | Model Context Protocol servers, agent frameworks & CLI tools | `18` |
+| 🧠 **[AI, LLM & Machine Learning](./STARS.md#-ai_llm)** | Frontier LLMs, RAG, PyTorch, quantization & fine-tuning | `73` |
+| ⚡ **[DevOps, Linux & Cloud](./STARS.md#-devops_cloud)** | Self-hosted services, Docker, Arch Linux & database engines | `9` |
+| 🎨 **[Frontend & Creative Tech](./STARS.md#-frontend_web)** | UI frameworks, Penpot, Remotion & web dev specs | `10` |
+| 🧰 **[DevTools & Utilities](./STARS.md#-devtools_resources)** | Awesome lists, CLI utilities & Python ecosystem | `13` |
+| 🎮 **[Gaming & Multimedia](./STARS.md#-gaming_media)** | Modding tools, voice synthesis & open-source video tools | `2` |
+
+---
+
 ## 🏢 Brands & Projects
 
 A quick tour of what EROS powers behind the scenes:
